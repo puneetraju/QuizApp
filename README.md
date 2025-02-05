@@ -65,11 +65,9 @@ This will generate a `build` folder containing the optimized version of your app
 
 ## Screenshots
 
-<img src="./public/Screenshot (30).png" alt="Start Page" width="40%" style="margin-right: 10px; margin-bottom: 10px;">
-<img src="./public/Screenshot (29).png" alt="Correct answer" width="40%" style="margin-bottom: 10px;">
-<img src="./public/Screenshot (31).png" alt="Wrong answer" width="40%" style="margin-right: 10px;">
-<img src="./public/Screenshot (32).png" alt="Result Page" width="40%">
-
-## Video Recording
-
-<video controls src="./public/Screen Recording 2025-02-05 233624.mp4" title="Title" width="80%" ></video>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="./public/Screenshot (30).png" width="40%">
+    <img src="./public/Screenshot (29).png" width="40%">
+    <img src="./public/Screenshot (31).png" width="40%">
+    <img src="./public/Screenshot (32).png" width="40%">
+</div>
